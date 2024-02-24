@@ -2,7 +2,7 @@
 - 👀 I’m interested in designing response website and improvise the overall website using my Product Management skills.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React js, Java etc.
 - 📫 How to reach me through Gmail and Whatsapp
-- 😄 Pronouns: ...
+- 😄 Pronouns: Techie
 - ⚡ Fun fact: ...
 
 <!---
